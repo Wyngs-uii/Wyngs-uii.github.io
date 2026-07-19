@@ -1,0 +1,21 @@
+{
+  "name": "OnionFlow",
+  "short_name": "OnionFlow",
+  "description": "业务假设管理与协同引擎演示版",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafafc",
+  "theme_color": "#6582f7",
+  "icons": [
+    {
+      "src": "/assets/onionflow-icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/onionflow-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
